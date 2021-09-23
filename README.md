@@ -11,6 +11,9 @@ Describe what your project is about and what it does
 put what I've learned about version control and GitHub into practice!
 ### Files used
 Include the files used
-
+chicago.csv
+washington.csv
+new_york_city.csv
+bikeshare.py
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
