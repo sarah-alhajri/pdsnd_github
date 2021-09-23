@@ -8,7 +8,7 @@ Replace the Project Title
 
 ### Description
 Describe what your project is about and what it does
-
+put what I've learned about version control and GitHub into practice!
 ### Files used
 Include the files used
 
