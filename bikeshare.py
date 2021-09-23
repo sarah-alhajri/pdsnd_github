@@ -28,9 +28,9 @@ def get_filters():
             if city in CITY_DATA :
                 break
             else:
-                print("invalid input")
+                print("invalid input,try again")
         except:
-             print("invalid input")
+             print("invalid input,try again")
 
 
     # TO DO: get user input for month (all, january, february, ... , june)
@@ -41,9 +41,9 @@ def get_filters():
             if month in months :
                 break
             else:
-                print("invalid input")
+                print("invalid input,try again")
         except:
-             print("invalid input")
+             print("invalid ,try again")
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     while(True):
@@ -52,9 +52,9 @@ def get_filters():
                 if day in days :
                     break
                 else:
-                    print("invalid input")
+                    print("invalid input,try again")
             except:
-                print("invalid input")
+                print("invalid input,try again")
 
     print('-'*40)
     return city, month, day
